@@ -130,6 +130,10 @@ prediction = model_svc.predict(X_new)
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - gunawardhanayasith@gmail.com
 
-Project Link: https://github.com/yourusername/iris-classification
+Project Link: https://github.com/yasithS/IrisFlowerClassification
+
+## Author
+
+# Yasith Gunawardhana
